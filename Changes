@@ -1,3 +1,5 @@
+  1.05 2020.09.26     - Permissions fix for build tools (Build.PL / Makefile.PL)
+
   1.04 2020.09.26     - Maintainer update. Relicensed under the MIT License.
                         Minor tweaks to build process. Added meta_merge
                         information for GitHub. Added 'use warnings'.

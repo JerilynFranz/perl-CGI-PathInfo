@@ -1,4 +1,5 @@
 use Module::Build;
+
 my $build = Module::Build->new
       ( module_name    => 'CGI::PathInfo',
         dist_author    => 'Jerilyn Franz <cpan@jerilyn.info>',
