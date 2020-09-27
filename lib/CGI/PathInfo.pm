@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 BEGIN {
-	$CGI::PathInfo::VERSION = '1.05';
+	$CGI::PathInfo::VERSION = '1.06';
         $CGI::PathInfo::_mod_perl = 0;
 }
 

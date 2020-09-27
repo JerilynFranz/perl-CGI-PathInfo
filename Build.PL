@@ -22,13 +22,13 @@ my $build = Module::Build->new
           'meta-spec' => { version => 2 },
            resources => {
               bugtracker => {
-                   web  => 'https://github.com/JerilynFranz/perl-CGI-Path/issues',
+                   web  => 'https://github.com/JerilynFranz/perl-CGI-PathInfo/issues',
                },
-               homepage => 'https://github.com/JerilynFranz/perl-CGI-Path',
+               homepage => 'https://github.com/JerilynFranz/perl-CGI-PathInfo',
                repository => {
                    type => 'git',
-                   url  => 'https://github.com/JerilynFranz/perl-CGI-Path.git',
-                   web  => 'https://github.com/JerilynFranz/perl-CGI-Path',
+                   url  => 'https://github.com/JerilynFranz/perl-CGI-PathInfo.git',
+                   web  => 'https://github.com/JerilynFranz/perl-CGI-PathInfo',
                },
             },
         },

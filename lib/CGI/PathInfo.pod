@@ -84,6 +84,8 @@ CGI::PathInfo is compatible with ModPerl 1 in addition to normal CGI.
 
 =head1 CHANGES
 
+  1.06 2020.09.27     - Fix repository path errors in Build.PL
+
   1.05 2020.09.26     - Permissions fix for build tools (Build.PL / Makefile.PL)
 
   1.04 2020.09.26     - Maintainer update. Relicensed under the MIT License.
@@ -264,7 +266,7 @@ Jerilyn Franz <cpan@jerilyn.info>
 
 =head1 VERSION
 
-1.05 - released 2020.09.26
+1.06 - released 2020.09.27
 
 =head1 COPYRIGHT
 
